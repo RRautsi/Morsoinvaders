@@ -18,3 +18,12 @@ Link for PyGame: https://www.pygame.org/download.shtml
 Navigate to game folder with command line and then run main.py with python interpreter
 
 Alternatively you can run main.py in your favorite IDE terminal.
+
+
+![alt text](https://i.imgur.com/mBMs2Kk.png)
+
+
+![alt text](https://i.imgur.com/LBJvgGJ.png)
+
+
+![alt text](https://i.imgur.com/Yk53bgD.png)
